@@ -3,7 +3,7 @@ Generate report from Word document. Not required MS Office to generate documents
 
 ### Get it
 ```
-PM> Install-Package Mapster
+PM> Install-Package WordReport
 ```
 
 ### Step 1: Provide word template file
