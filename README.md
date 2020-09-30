@@ -12,7 +12,7 @@ NOTE2: You need to open selection pane to get or set image name to replace
 
 ![image](https://user-images.githubusercontent.com/5763993/94629582-6fbb9080-02ed-11eb-8d04-d17fadcf6e64.png)
 
-### Step 2: Provide data models & images
+### Step 2: Provide data models & images (optional)
 
 ```csharp
 var data = new
