@@ -7,7 +7,8 @@ PM> Install-Package Mapster
 ```
 
 ### Step 1: Provide word template file
-NOTE: You need to open selection pane to get or set image name to replace
+NOTE: template is [Scriban](https://github.com/lunet-io/scriban), please see usage there.  
+NOTE2: You need to open selection pane to get or set image name to replace
 
 ![image](https://user-images.githubusercontent.com/5763993/94629582-6fbb9080-02ed-11eb-8d04-d17fadcf6e64.png)
 
