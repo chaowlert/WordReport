@@ -1,5 +1,5 @@
 # WordReport
-Generate report from Word document
+Generate report from Word document. Not required MS Office to generate documents.
 
 ### Get it
 ```
