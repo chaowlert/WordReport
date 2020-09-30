@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net40;net46;netstandard1.3;netstandard2.0</TargetFrameworks>
+    <Authors>Chaowlert Chaisrichalermpol</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Generate report using Word document</Description>
+    <Copyright>Copyright (c) Chaowlert Chaisrichalermpol</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/chaowlert/WordReport</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/chaowlert/WordReport</RepositoryUrl>
+    <PackageTags>word;report;generator</PackageTags>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>WordReport.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.11.3" />
+    <PackageReference Include="Scriban.Signed" Version="2.1.4" />
+  </ItemGroup>
+
+</Project>
