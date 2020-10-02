@@ -1,6 +1,8 @@
 # WordReport
 Generate report from Word document. Not required MS Office to generate documents.
 
+[![NuGet](https://img.shields.io/nuget/v/WordReport.svg)](https://www.nuget.org/packages/WordReport)
+
 ### Get it
 ```
 PM> Install-Package WordReport
